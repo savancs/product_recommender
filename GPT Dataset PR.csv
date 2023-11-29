@@ -1,0 +1,201 @@
+﻿Input Text,Product Type,Min Price,Max Price,Skin Concerns,Preferred Ingredients,Excluded Ingredients
+Looking for a sun protect for dry skin $36-$70 with Peptides,Sun Protect,36,70,Dry,Peptides,
+Looking for a eye cream for combination skin $18-$40 without Phthalates,Eye Cream,18,40,Combination,,Phthalates
+Looking for a moisturizer for dry skin $40-$72 without Formaldehyde,Moisturizer,40,72,Dry,,Formaldehyde
+Looking for a treatment for dry skin $20-$40 without Parabens,Treatment,20,40,Dry,,Parabens
+Looking for a face mask for acne-prone skin $37-$44 with Aloe Vera,Face Mask,37,44,Acne,Aloe Vera,
+Looking for a treatment for acne-prone skin $12-$35 with Tea Tree Oil without Silicones,Treatment,12,35,Acne,Tea Tree Oil,Silicones
+Looking for a cleanser for acne-prone skin $48-$53 with Retinol without Phthalates,Cleanser,48,53,Acne,Retinol,Phthalates
+Looking for a face mask for dry skin $28-$65 without Synthetic Dyes,Face Mask,28,65,Dry,,Synthetic Dyes
+Looking for a cleanser for dry skin $21-$53 with Niacinamide,Cleanser,21,53,Dry,Niacinamide,
+Looking for a eye cream for acne-prone skin $31-$69,Eye Cream,31,69,Acne,,
+Looking for a sun protect for sensitive skin $25-$41 without Formaldehyde,Sun Protect,25,41,Sensitive,,Formaldehyde
+Looking for a eye cream for sensitive skin $18-$58 without Synthetic Dyes,Eye Cream,18,58,Sensitive,,Synthetic Dyes
+Looking for a eye cream for combination skin $27-$50 with Glycerin without Sulfates,Eye Cream,27,50,Combination,Glycerin,Sulfates
+Looking for a face mask for oily skin $30-$40 without Fragrance,Face Mask,30,40,Oily,,Fragrance
+Looking for a eye cream for dry skin $40-$45 with Retinol,Eye Cream,40,45,Dry,Retinol,
+Looking for a cleanser for sensitive skin $49-$65 without Alcohol,Cleanser,49,65,Sensitive,,Alcohol
+Looking for a face mask for acne-prone skin $39-$48,Face Mask,39,48,Acne,,
+Looking for a sun protect for dry skin $16-$34,Sun Protect,16,34,Dry,,
+Looking for a moisturizer for sensitive skin $11-$37 with Ceramides without Phthalates,Moisturizer,11,37,Sensitive,Ceramides,Phthalates
+Looking for a eye cream for sensitive skin $22-$52 with Hyaluronic Acid without Triclosan,Eye Cream,22,52,Sensitive,Hyaluronic Acid,Triclosan
+Looking for a face mask for dry skin $32-$70 without Sulfates,Face Mask,32,70,Dry,,Sulfates
+Looking for a eye cream for dry skin $35-$51 with Retinol without Synthetic Dyes,Eye Cream,35,51,Dry,Retinol,Synthetic Dyes
+Looking for a face mask for oily skin $35-$73,Face Mask,35,73,Oily,,
+Looking for a moisturizer for sensitive skin $45-$80 with Glycerin,Moisturizer,45,80,Sensitive,Glycerin,
+Looking for a moisturizer for oily skin $49-$84,Moisturizer,49,84,Oily,,
+Looking for a cleanser for sensitive skin $21-$33 with Glycerin without Formaldehyde,Cleanser,21,33,Sensitive,Glycerin,Formaldehyde
+Looking for a treatment for sensitive skin $44-$53 with Niacinamide without Fragrance,Treatment,44,53,Sensitive,Niacinamide,Fragrance
+Looking for a treatment for combination skin $50-$81 with Ceramides without Alcohol,Treatment,50,81,Combination,Ceramides,Alcohol
+Looking for a face mask for combination skin $36-$51 with Ceramides without Mineral Oil,Face Mask,36,51,Combination,Ceramides,Mineral Oil
+Looking for a moisturizer for combination skin $5-$16 with Vitamin C without Formaldehyde,Moisturizer,5,16,Combination,Vitamin C,Formaldehyde
+Looking for a eye cream for oily skin $29-$51 with Niacinamide,Eye Cream,29,51,Oily,Niacinamide,
+Looking for a face mask for oily skin $44-$86,Face Mask,44,86,Oily,,
+Looking for a treatment for acne-prone skin $15-$42 with Vitamin C without Formaldehyde,Treatment,15,42,Acne,Vitamin C,Formaldehyde
+Looking for a moisturizer for dry skin $32-$65,Moisturizer,32,65,Dry,,
+Looking for a moisturizer for combination skin $46-$61 with Tea Tree Oil,Moisturizer,46,61,Combination,Tea Tree Oil,
+Looking for a eye cream for combination skin $7-$37 with Retinol,Eye Cream,7,37,Combination,Retinol,
+Looking for a sun protect for combination skin $5-$20,Sun Protect,5,20,Combination,,
+Looking for a face mask for dry skin $35-$70 with Tea Tree Oil,Face Mask,35,70,Dry,Tea Tree Oil,
+Looking for a face mask for oily skin $35-$48,Face Mask,35,48,Oily,,
+Looking for a treatment for acne-prone skin $23-$52,Treatment,23,52,Acne,,
+Looking for a face mask for combination skin $49-$67,Face Mask,49,67,Combination,,
+Looking for a face mask for sensitive skin $37-$77 with Ceramides without Phthalates,Face Mask,37,77,Sensitive,Ceramides,Phthalates
+Looking for a sun protect for oily skin $22-$28,Sun Protect,22,28,Oily,,
+Looking for a treatment for combination skin $19-$22 with Tea Tree Oil without Silicones,Treatment,19,22,Combination,Tea Tree Oil,Silicones
+Looking for a face mask for acne-prone skin $27-$61 with Vitamin C,Face Mask,27,61,Acne,Vitamin C,
+Looking for a treatment for sensitive skin $13-$24 with Tea Tree Oil,Treatment,13,24,Sensitive,Tea Tree Oil,
+Looking for a face mask for combination skin $41-$70 with Aloe Vera without Fragrance,Face Mask,41,70,Combination,Aloe Vera,Fragrance
+Looking for a eye cream for oily skin $18-$18 without Parabens,Eye Cream,18,18,Oily,,Parabens
+Looking for a eye cream for combination skin $37-$83,Eye Cream,37,83,Combination,,
+Looking for a cleanser for combination skin $7-$41,Cleanser,7,41,Combination,,
+Looking for a treatment for combination skin $48-$75 with Glycerin,Treatment,48,75,Combination,Glycerin,
+Looking for a treatment for acne-prone skin $31-$81 with Niacinamide,Treatment,31,81,Acne,Niacinamide,
+Looking for a face mask for oily skin $25-$60,Face Mask,25,60,Oily,,
+Looking for a sun protect for dry skin $45-$74,Sun Protect,45,74,Dry,,
+Looking for a treatment for oily skin $41-$62 without Silicones,Treatment,41,62,Oily,,Silicones
+Looking for a sun protect for sensitive skin $12-$53 with Retinol,Sun Protect,12,53,Sensitive,Retinol,
+Looking for a face mask for dry skin $38-$77,Face Mask,38,77,Dry,,
+Looking for a moisturizer for acne-prone skin $23-$24 with Aloe Vera without Triclosan,Moisturizer,23,24,Acne,Aloe Vera,Triclosan
+Looking for a face mask for sensitive skin $12-$29 with Glycerin without Parabens,Face Mask,12,29,Sensitive,Glycerin,Parabens
+Looking for a eye cream for combination skin $37-$62 with Peptides without Phthalates,Eye Cream,37,62,Combination,Peptides,Phthalates
+Looking for a moisturizer for oily skin $14-$45 without Silicones,Moisturizer,14,45,Oily,,Silicones
+Looking for a eye cream for sensitive skin $27-$62,Eye Cream,27,62,Sensitive,,
+Looking for a cleanser for oily skin $33-$63 without Synthetic Dyes,Cleanser,33,63,Oily,,Synthetic Dyes
+Looking for a treatment for acne-prone skin $27-$74 without Sulfates,Treatment,27,74,Acne,,Sulfates
+Looking for a eye cream for oily skin $10-$14,Eye Cream,10,14,Oily,,
+Looking for a moisturizer for acne-prone skin $47-$95 without Fragrance,Moisturizer,47,95,Acne,,Fragrance
+Looking for a cleanser for oily skin $50-$89 with Retinol without Parabens,Cleanser,50,89,Oily,Retinol,Parabens
+Looking for a eye cream for sensitive skin $37-$73,Eye Cream,37,73,Sensitive,,
+Looking for a eye cream for dry skin $38-$61 without Parabens,Eye Cream,38,61,Dry,,Parabens
+Looking for a face mask for combination skin $45-$88,Face Mask,45,88,Combination,,
+Looking for a cleanser for dry skin $40-$67,Cleanser,40,67,Dry,,
+Looking for a sun protect for acne-prone skin $25-$67 without Sulfates,Sun Protect,25,67,Acne,,Sulfates
+Looking for a treatment for sensitive skin $19-$36,Treatment,19,36,Sensitive,,
+Looking for a sun protect for combination skin $35-$65,Sun Protect,35,65,Combination,,
+Looking for a moisturizer for sensitive skin $7-$19 with Aloe Vera,Moisturizer,7,19,Sensitive,Aloe Vera,
+Looking for a sun protect for sensitive skin $28-$51,Sun Protect,28,51,Sensitive,,
+Looking for a face mask for acne-prone skin $24-$44,Face Mask,24,44,Acne,,
+Looking for a face mask for acne-prone skin $30-$45 with Ceramides without Mineral Oil,Face Mask,30,45,Acne,Ceramides,Mineral Oil
+Looking for a moisturizer for acne-prone skin $15-$62 with Peptides without Triclosan,Moisturizer,15,62,Acne,Peptides,Triclosan
+Looking for a face mask for sensitive skin $44-$67,Face Mask,44,67,Sensitive,,
+Looking for a face mask for combination skin $7-$9 with Hyaluronic Acid,Face Mask,7,9,Combination,Hyaluronic Acid,
+Looking for a sun protect for sensitive skin $44-$94,Sun Protect,44,94,Sensitive,,
+Looking for a face mask for combination skin $47-$92 without Parabens,Face Mask,47,92,Combination,,Parabens
+Looking for a cleanser for combination skin $18-$41 without Synthetic Dyes,Cleanser,18,41,Combination,,Synthetic Dyes
+Looking for a sun protect for oily skin $33-$44 without Alcohol,Sun Protect,33,44,Oily,,Alcohol
+Looking for a eye cream for sensitive skin $20-$25 without Alcohol,Eye Cream,20,25,Sensitive,,Alcohol
+Looking for a face mask for combination skin $39-$49 with Ceramides,Face Mask,39,49,Combination,Ceramides,
+Looking for a sun protect for dry skin $41-$89 with Salicylic Acid without Synthetic Dyes,Sun Protect,41,89,Dry,Salicylic Acid,Synthetic Dyes
+Looking for a treatment for combination skin $9-$13 with Tea Tree Oil,Treatment,9,13,Combination,Tea Tree Oil,
+Looking for a moisturizer for combination skin $24-$71 without Sulfates,Moisturizer,24,71,Combination,,Sulfates
+Looking for a moisturizer for acne-prone skin $11-$55,Moisturizer,11,55,Acne,,
+Looking for a eye cream for combination skin $36-$82 without Formaldehyde,Eye Cream,36,82,Combination,,Formaldehyde
+Looking for a cleanser for sensitive skin $30-$49,Cleanser,30,49,Sensitive,,
+Looking for a sun protect for acne-prone skin $27-$65 with Ceramides without Sulfates,Sun Protect,27,65,Acne,Ceramides,Sulfates
+Looking for a cleanser for acne-prone skin $17-$22 with Retinol without Formaldehyde,Cleanser,17,22,Acne,Retinol,Formaldehyde
+Looking for a sun protect for combination skin $13-$50 with Peptides,Sun Protect,13,50,Combination,Peptides,
+Looking for a sun protect for oily skin $25-$66,Sun Protect,25,66,Oily,,
+Looking for a treatment for sensitive skin $20-$27,Treatment,20,27,Sensitive,,
+Looking for a eye cream for dry skin $38-$81 without Triclosan,Eye Cream,38,81,Dry,,Triclosan
+Looking for a sun protect for sensitive skin $20-$70 without Phthalates,Sun Protect,20,70,Sensitive,,Phthalates
+Combination skin eye cream more than $44 but less than $60,Eye Cream,44,60,Combination,,
+I need a moisturizer that includes Salicylic Acid for oily skin more than $30 but less than $48.,Moisturizer,30,48,Oily,Salicylic Acid,
+Cleanser with  more than $25 but less than $68,Cleanser,25,68,Combination,,Parabens
+Moisturizer with  more than $13 but less than $52,Moisturizer,13,52,Oily,,
+What's a good moisturizer to use when my skin is acne-prone?,Moisturizer,7,35,Acne,,
+Moisturizer with  more than $30 but less than $77,Moisturizer,30,77,Sensitive,,Fragrance
+I need a eye cream that includes Ceramides for acne-prone skin more than $38 but less than $38.,Eye Cream,38,38,Acne,Ceramides,
+Combination skin eye cream more than $6 but less than $16,Eye Cream,6,16,Combination,,
+What's a good moisturizer to use when my skin is oily that includes Salicylic Acid that doesn't have Parabens?,Moisturizer,32,74,Oily,Salicylic Acid,Parabens
+Cleanser with Aloe Vera more than $47 but less than $87,Cleanser,47,87,Sensitive,Aloe Vera,
+Eye cream with  more than $43 but less than $74,Eye Cream,43,74,Dry,,
+I need a face mask  for combination skin more than $26 but less than $56.,Face Mask,26,56,Combination,,Synthetic Dyes
+I need a eye cream  for acne-prone skin more than $35 but less than $46.,Eye Cream,35,46,Acne,,Triclosan
+Eye cream with  more than $18 but less than $57,Eye Cream,18,57,Combination,,Mineral Oil
+Sensitive skin sun protect more than $42 but less than $57,Sun Protect,42,57,Sensitive,,
+What's a good treatment to use when my skin is sensitive that includes Peptides ?,Treatment,38,69,Sensitive,Peptides,
+Treatment with Retinol more than $43 but less than $92,Treatment,43,92,Combination,Retinol,
+Acne-prone skin eye cream more than $13 but less than $45,Eye Cream,13,45,Acne,Tea Tree Oil,Phthalates
+Sun protect with  more than $45 but less than $85,Sun Protect,45,85,Combination,,
+Acne-prone face mask more than $35 but less than $76,Face Mask,35,76,Acne,,
+I need a sun protect acne-prone more than $31 but less than $72.,Sun Protect,31,72,Acne,,
+What's a good face mask to use when my skin is combination that includes Aloe Vera that doesn't have Alcohol?,Face Mask,10,11,Combination,Aloe Vera,Alcohol
+Combination skin face mask more than $25 but less than $51,Face Mask,25,51,Combination,Aloe Vera,Fragrance
+What's a good moisturizer to use when my skin is sensitive that includes Retinol ?,Moisturizer,47,90,Sensitive,Retinol,
+What's a good face mask to use when my skin is combination that includes Peptides that doesn't have Triclosan?,Face Mask,11,60,Combination,Peptides,Triclosan
+Acne-prone need a moisturizer more than $21 but less than $70,Moisturizer,21,70,Acne,,Phthalates
+I need a eye cream for acne-prone skin more than $37 but less than $76.,Eye Cream,37,76,Acne,,Alcohol
+Sun protect with Vitamin C more than $27 but less than $34,Sun Protect,27,34,Sensitive,Vitamin C,
+What's a good face mask to use when my skin is dry  ?,Face Mask,23,35,Dry,,
+I need a eye cream for acne-prone skin more than $48 but less than $52.,Eye Cream,48,52,Acne,,
+Sensitive skin moisturizer more than $45 but less than $65,Moisturizer,45,65,Sensitive,Aloe Vera,
+Treatment with  more than $32 but less than $43,Treatment,32,43,Combination,,Fragrance
+What's a good eye cream to use when my skin is dry  ?,Eye Cream,42,46,Dry,,
+Combination skin treatment more than $19 but less than $26,Treatment,19,26,Combination,Glycerin,
+I need a moisturizer that includes Retinol for combination skin more than $26 but less than $69.,Moisturizer,26,69,Combination,Retinol,Synthetic Dyes
+What's a good eye cream to use when my skin is dry  that doesn't have Formaldehyde?,Eye Cream,20,50,Dry,,Formaldehyde
+What's a good eye cream to use when my skin is oily  that doesn't have Alcohol?,Eye Cream,15,21,Oily,,Alcohol
+What's a good sun protect to use when my skin is sensitive  that doesn't have Fragrance?,Sun Protect,39,83,Sensitive,,Fragrance
+What's a good moisturizer to use when my skin is acne-prone that doesn't have Synthetic Dyes?,Moisturizer,39,74,Acne,,Synthetic Dyes
+Treatment with Peptides more than $12 but less than $25,Treatment,12,25,Oily,Peptides,
+I need a moisturizer that includes Hyaluronic Acid for oily skin more than $17 but less than $50.,Moisturizer,17,50,Oily,Hyaluronic Acid,
+What's a good eye cream to use when my skin is sensitive  ?,Eye Cream,31,80,Sensitive,,
+I need a cleanser for acne-prone skin more than $44 but less than $44.,Cleanser,44,44,Acne,,
+Combination skin sun protect more than $33 but less than $79,Sun Protect,33,79,Combination,Salicylic Acid,
+Sun protect with Hyaluronic Acid more than $36 but less than $85,Sun Protect,36,85,Acne,Hyaluronic Acid,Alcohol
+Dry skin moisturizer more than $11 but less than $57,Moisturizer,11,57,Dry,,Silicones
+What's a good eye cream to use when my skin is acne-prone that doesn't have Synthetic Dyes?,Eye Cream,6,8,Acne,,Synthetic Dyes
+I need a treatment  for combination skin more than $28 but less than $47.,Treatment,28,47,Combination,,
+I need a treatment  for oily skin more than $49 but less than $56.,Treatment,49,56,Oily,,
+What's a good treatment to use when my skin is acne-prone  that doesn't have Sulfates?,Treatment,27,69,Acne,,Sulfates
+Cleanser with  more than $21 but less than $52,Cleanser,21,52,Sensitive,,
+Sensitive skin eye cream more than $30 but less than $39,Eye Cream,30,39,Sensitive,Niacinamide,
+Combination skin moisturizer more than $10 but less than $42,Moisturizer,10,42,Combination,,
+I need a eye cream that includes Niacinamide for oily skin more than $9 but less than $56.,Eye Cream,9,56,Oily,Niacinamide,Formaldehyde
+What's a good face mask to use when my skin is sensitive  that doesn't have Alcohol?,Face Mask,18,62,Sensitive,,Alcohol
+What's a good treatment to use when my skin is dry that includes Peptides ?,Treatment,10,44,Dry,Peptides,
+Combination skin moisturizer more than $19 but less than $56,Moisturizer,19,56,Combination,,Parabens
+Treatment with  more than $42 but less than $75,Treatment,42,75,Dry,,
+What's a good cleanser to use when my skin is oily  that doesn't have Synthetic Dyes?,Cleanser,28,31,Oily,,Synthetic Dyes
+face mask acne more than $30 but less than $75,Face Mask,30,75,Acne,,Synthetic Dyes
+I need a treatment that includes Hyaluronic Acid for dry skin more than $6 but less than $51.,Treatment,6,51,Dry,Hyaluronic Acid,
+Face mask with  more than $7 but less than $57,Face Mask,7,57,Sensitive,,Formaldehyde
+Moisturizer with  more than $21 but less than $48,Moisturizer,21,48,Combination,,
+Sensitive skin sun protect more than $35 but less than $54,Sun Protect,35,54,Sensitive,Vitamin C,
+What's a good eye cream to use when my skin is oily  that doesn't have Mineral Oil?,Eye Cream,44,94,Oily,,Mineral Oil
+I need a moisturizer that includes Salicylic Acid for oily skin more than $34 but less than $72.,Moisturizer,34,72,Oily,Salicylic Acid,Synthetic Dyes
+Treatment with  more than $40 but less than $54,Treatment,40,54,Combination,,Fragrance
+I need a moisturizer that includes Vitamin C for oily skin more than $45 but less than $46.,Moisturizer,45,46,Oily,Vitamin C,Phthalates
+Oily skin cleanser more than $17 but less than $54,Cleanser,17,54,Oily,,
+Moisturizer with Glycerin more than $30 but less than $41,Moisturizer,30,41,Dry,Glycerin,
+What's a good eye cream to use when my skin is acne-prone that includes Peptides that doesn't have Triclosan?,Eye Cream,22,33,Acne,Peptides,Triclosan
+I need a face mask  for oily skin more than $22 but less than $61.,Face Mask,22,61,Oily,,
+Treatment with  more than $10 but less than $29,Treatment,10,29,Acne,,Sulfates
+Dry skin cleanser more than $47 but less than $49,Cleanser,47,49,Dry,,Triclosan
+Dry skin eye cream more than $28 but less than $51,Eye Cream,28,51,Dry,Glycerin,Sulfates
+Acne-prone moisturizer more than $35 but less than $84,Moisturizer,35,84,Acne,Vitamin C,
+Moisturizer with  more than $28 but less than $42,Moisturizer,28,42,Combination,,
+Combination skin face mask more than $20 but less than $67,Face Mask,20,67,Combination,Vitamin C,Triclosan
+Eye cream with  more than $9 but less than $32,Eye Cream,9,32,Sensitive,,Sulfates
+I need a eye cream that includes Aloe Vera for combination skin more than $21 but less than $67.,Eye Cream,21,67,Combination,Aloe Vera,Formaldehyde
+Face mask with Salicylic Acid more than $40 but less than $85,Face Mask,40,85,Oily,Salicylic Acid,Triclosan
+What's a good sun protect to use when my skin is acne-prone?,Sun Protect,41,48,Acne,,
+Treatment with Vitamin C more than $49 but less than $82,Treatment,49,82,Combination,Vitamin C,Formaldehyde
+Oily skin sun protect more than $15 but less than $16,Sun Protect,15,16,Oily,Glycerin,
+What's a good cleanser to use when my skin is oily  that doesn't have Parabens?,Cleanser,27,62,Oily,,Parabens
+I need a eye cream  for oily skin more than $44 but less than $66.,Eye Cream,44,66,Oily,,
+I need a sun protect that includes Niacinamide for combination skin more than $25 but less than $70.,Sun Protect,25,70,Combination,Niacinamide,Triclosan
+What's a good face mask to use when my skin is dry  ?,Face Mask,7,53,Dry,,
+Combination skin eye cream more than $8 but less than $10,Eye Cream,8,10,Combination,Vitamin C,
+Treatment with  more than $16 but less than $53,Treatment,16,53,Combination,,
+Oily skin face mask more than $23 but less than $55,Face Mask,23,55,Oily,Salicylic Acid,Formaldehyde
+Combination skin face mask more than $16 but less than $65,Face Mask,16,65,Combination,,Sulfates
+What's a good face mask to use when my skin is acne-prone that includes Salicylic Acid ?,Face Mask,25,30,Acne,Salicylic Acid,
+What's a good moisturizer to use when my skin is oily  ?,Moisturizer,28,38,Oily,,
+I need a face mask  for oily skin more than $37 but less than $67.,Face Mask,37,67,Oily,,Silicones
+Sensitive skin sun protect more than $38 but less than $51,Sun Protect,38,51,Sensitive,,Fragrance
+Face mask with  more than $10 but less than $55,Face Mask,10,55,Combination,,Triclosan
+I need a cleanser  for oily skin more than $30 but less than $41.,Cleanser,30,41,Oily,,
+I need a face mask  for combination skin more than $37 but less than $84.,Face Mask,37,84,Combination,,
+What's a good cleanser to use when my skin is oily that includes Retinol ?,Cleanser,,,Oily,Retinol,
